@@ -1,11 +1,3 @@
-# shopify-sales-dashboard.file
-Got it 👍 You uploaded a **Shopify Sales Dashboard.pbix** file.
-I’ll create an attractive **README.md** file for your repository that explains the project in a professional, engaging, and visually appealing way — but without ⭐ (as you requested).
-
-Here’s a ready-to-use version:
-
----
-
 # Shopify Sales Dashboard
 
 📊 A Power BI dashboard designed to analyze and visualize **Shopify sales performance**.
@@ -77,7 +69,3 @@ If you’d like to connect or collaborate:
 * **Author**: Your Name
 * **Email**: [your.email@example.com](mailto:your.email@example.com)
 * **LinkedIn**: [Your LinkedIn Profile](#)
-
----
-
-👉 Would you like me to also **add GitHub badges (like Power BI, Shopify, etc.)** for a more professional look, or keep it **minimal and clean**?
