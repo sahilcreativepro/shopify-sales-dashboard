@@ -67,7 +67,7 @@ This dashboard provides valuable insights into revenue, orders, top-performing p
 If you’d like to connect or collaborate:
 
 * **Author**: Your Name
-* **Email**: [your.email@example.com](mailto:your.email@example.com)
-* **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/
+* **Email**: (storyofsahil@gmail.com) 
+* **LinkedIn**:(www.linkedin.com/in/
 sahil-kumar-1079b135b
 )
